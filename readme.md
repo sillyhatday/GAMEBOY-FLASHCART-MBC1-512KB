@@ -28,6 +28,7 @@ Adding FRAM to the circuit design requires minimal mods to be done. It requires 
 In the top corner is space to fit a 3 input OR gate to stobe the chip enable input with a clock pulse and also whenever normal chip enable requests are sent. Creating an artificial chip enable pulse. This is probably compatible with all MBC1 based games but I left a simple jumper system in place to allow the OR gate to not be fitted in the case where you may not wish to use the cart for games that need it.
 
 For Normal usage: Leave unpopulated, R4 and U5. Place a link or a 0R resistor in R3 position.
+
 For Mario games: Leave unpopulated R3. Populate U5 and R4.
 
 Currently testing and waiting on parts. I will start a compatibility list in a few weeks.
