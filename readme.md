@@ -34,6 +34,6 @@ For Mario games: Leave unpopulated R3. Populate U5 and R4.
 
 Changelog:
 
-V1.1: Rerouted some traces to tidy things up. Added missing trace to MBC1 reset pin. Changed the corner notch size to better fit into shells.
+26/01/2023 V1.1: Rerouted some traces to tidy things up. Added missing trace to MBC1 reset pin. Changed the corner notch size to better fit into shells.
 
-V1.0: Missing MBC1 reset trace. Requires botch wire.
+21/01/2023 V1.0: Missing MBC1 reset trace. Requires botch wire.
