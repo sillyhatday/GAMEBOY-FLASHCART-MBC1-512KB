@@ -1,8 +1,9 @@
 Currently in testing a MBC1 based flash cart with FRAM and AM29F080 ROM.
 
-Placeholder until done testing.
+Yet to test the OR gate feature for Mario. The standard setup works. First version had some mistakes. Updated gerbers to V1.1.
 
-![Gameboy MBC1 Cart + FRAM Final](https://user-images.githubusercontent.com/65309612/213887357-63217c9d-ee42-4b39-a021-0af31d914ac7.jpg)
+![Gameboy MBC1 Cart + FRAM](https://user-images.githubusercontent.com/65309612/214947262-9b0cdd31-971c-4be8-99af-f48ddeae7723.jpg)
+
 ![Gameboy MBC1 Cart + FRAM Final 2](https://user-images.githubusercontent.com/65309612/213887359-5e74cb24-b308-41f7-8a23-38a8cecf73e4.jpg)
 
 **EEPROM AM29F080B**
@@ -31,4 +32,8 @@ For Normal usage: Leave unpopulated, R4 and U5. Place a link or a 0R resistor in
 
 For Mario games: Leave unpopulated R3. Populate U5 and R4.
 
-Currently testing and waiting on parts. I will start a compatibility list in a few weeks.
+Changelog:
+
+V1.1: Rerouted some traces to tidy things up. Added missing trace to MBC1 reset pin. Changed the corner notch size to better fit into shells.
+
+V1.0: Missing MBC1 reset trace. Requires botch wire.
