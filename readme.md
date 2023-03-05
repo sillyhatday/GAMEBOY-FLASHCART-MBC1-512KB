@@ -2,9 +2,9 @@ Using footprints from https://github.com/HDR Be sure to check out their designs 
 
 Currently in testing a MBC1 based flash cart with FRAM and AM29F080 ROM.
 
-![Gameboy MBC1 Cart + FRAM](https://user-images.githubusercontent.com/65309612/214947262-9b0cdd31-971c-4be8-99af-f48ddeae7723.jpg)
+![Gameboy MBC1 Cart + FRAM V1 2](https://user-images.githubusercontent.com/65309612/222987489-f95d10d4-4383-41f5-95aa-f86af7158dee.jpg)
 
-![Gameboy MBC1 Cart + FRAM Final 2](https://user-images.githubusercontent.com/65309612/213887359-5e74cb24-b308-41f7-8a23-38a8cecf73e4.jpg)
+![Gameboy MBC1 Cart + FRAM V1 2 Back](https://user-images.githubusercontent.com/65309612/222987492-f0702726-a8bf-4ca8-b2ca-e2f645ab5be7.jpg)
 
 **EEPROM AM29F080B**
 
