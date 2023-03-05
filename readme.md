@@ -36,7 +36,7 @@ I would recommend installing the OR gate regardless of if you plan on using game
 
 Changelog:
 
-05/03/2023 Added Pin 1 marker to MBC chip.
+05/03/2023 V1.2 Added Pin 1 marker to MBC chip.
 
 07/02/2023 Updated readme now that I've been able to test the OR gate on the PCB.
 
